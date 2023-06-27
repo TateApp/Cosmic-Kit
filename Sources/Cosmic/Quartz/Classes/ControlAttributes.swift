@@ -1,10 +1,5 @@
 //
 import QuartzCore//
-//
-//
-//
-//
-//
 
 
 import UIKit

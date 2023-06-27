@@ -1,3 +1,6 @@
-# Cosmic
+# Cosmic-Kit
 
-A description of this package.
+A Library of Classes and Extensions for Easier UIKit Development.
+
+Each Class has been subjected to Cosmic Vibrations to improve the User Experience.
+
