@@ -1,5 +1,6 @@
 //
-import QuartzCoreimport XCTest
+import QuartzCore
+import XCTest
 @testable import Cosmic
 
 final class CosmicTests: XCTestCase {

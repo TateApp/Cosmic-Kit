@@ -1,15 +1,6 @@
-//
-import QuartzCore//
-//
-//
-//
-//
-//
-//
-//
- 
 
- 
+import QuartzCore
+
 import UIKit
 
 public class ImageView : UIImageView {
