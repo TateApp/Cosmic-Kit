@@ -1,16 +1,10 @@
 //
-import QuartzCore//
 //
 //
 //
 //
-//
-//
-//
+import QuartzCore
 
- 
-
- 
 import UIKit
 
 public class Picker : UIPickerView {

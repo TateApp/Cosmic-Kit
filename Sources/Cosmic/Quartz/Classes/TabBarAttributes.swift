@@ -1,19 +1,11 @@
 //
-import QuartzCore//
 //
 //
 //
 //
-//
-//
-//
+import QuartzCore
 
-
-
- 
 import UIKit
-
-
 
 public enum TabBarAttributes {
     

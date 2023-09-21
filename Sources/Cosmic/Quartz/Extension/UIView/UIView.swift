@@ -1,16 +1,10 @@
 //
-import QuartzCore//
 //
 //
 //
 //
-//
-//
-//
+import QuartzCore
 
- 
- 
- 
 import UIKit
 
 
@@ -58,6 +52,7 @@ extension UIView {
       
         
     }
+    
     public func width(width: CGFloat) {
         
             self.translatesAutoresizingMaskIntoConstraints = false
